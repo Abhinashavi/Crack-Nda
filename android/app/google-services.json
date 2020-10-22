@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "2062616970",
+    "firebase_url": "https://ndaapp-40a14.firebaseio.com",
+    "project_id": "ndaapp-40a14",
+    "storage_bucket": "ndaapp-40a14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2062616970:android:4a557c83a1c502bd606073",
+        "android_client_info": {
+          "package_name": "com.abhinash.ndaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2062616970-rvhlllkhcc96oio9g18pde3vh225cibh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIWoCyvYu1v1xHg3bViVdA7c0jXA1-UOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2062616970-rvhlllkhcc96oio9g18pde3vh225cibh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
